@@ -1,7 +1,8 @@
 import { Form } from "react-router-dom";
 
 export default function Contact() {
-  const contact = {
+    const contact = {
+    id: 1,
     first: "Your",
     last: "Name",
     avatar: "https://robohash.org/you.png?size=200x200",
